@@ -1,10 +1,11 @@
 # drip
 
 ## Description
-Project drip
+A placeholder or new project "drip".
 
 ## Goals
-- [ ] Add project goals
+- [ ] Define project scope
+- [ ] Initialize codebase
 
 ## Progress
 - [ ] Initial setup
